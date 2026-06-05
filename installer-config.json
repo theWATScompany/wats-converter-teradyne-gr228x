@@ -1,0 +1,11 @@
+{
+    "assemblyName": "TeradyneConverter",
+    "converterClass": "Virinco.WATS.Converter.Teradyne.TeradyneICT",
+    "displayName": "Teradyne GR228X ICT Converter",
+    "description": "Converts Teradyne GR228X ICT test log files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.log",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\TeradyneConverters",
+    "postProcessAction": "Archive",
+    "productGuid": "17e0e779-3845-438b-9642-e2f4c6127155"
+}
